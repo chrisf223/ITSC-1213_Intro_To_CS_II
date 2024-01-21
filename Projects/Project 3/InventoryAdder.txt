@@ -1,0 +1,7 @@
+animalType,Name,Breed/Species,Sex,Age,Weight,Price
+dog,Waffle,German Shepherd,Female,12,85.0,500.0
+dog,Poe,Corgi,Male,3,35.0,450.0
+cat,Karma,Orange Tabby,Female,6,15.0,200.0
+cat,Kit,Maine Coon,Male,6,0.18,150.0
+exotic,Pancake,Bearded Dragon,Male,6,0.8,75.0
+exotic,Noodle,Ball Python,Male,4,2.0,95.0 

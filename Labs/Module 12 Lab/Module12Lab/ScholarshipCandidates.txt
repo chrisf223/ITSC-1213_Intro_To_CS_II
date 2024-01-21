@@ -1,0 +1,23 @@
+Our top candidates for the scholarship are: 
+Name: Xavier Cato
+GPA: 3.5
+Major: CS
+
+Name: Kathrine Johnson
+GPA: 4.0
+Major: CS
+
+Our middle candidates for the scholarship are: 
+Name: Roy Clay
+GPA: 3.2
+Major: Biology
+
+Name: Grace Maxeem
+GPA: 3.4
+Major: Psychology
+
+Our ineligible candidates for the scholarship are: 
+Name: Kimberly Bryant
+GPA: 3.0
+Major: Electrical Engineering
+

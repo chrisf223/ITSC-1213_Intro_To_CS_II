@@ -1,0 +1,8 @@
+Daily Report
+Today's Sales:
+    Number of Dogs Purchased: 0
+    Number of Cats Purchased: 0
+    Number of Exotic Pets Purchased: 0
+Number of Members Added Today: 0
+Number of Pets Added Today: 0
+Today's Total Revenue: 0.0
